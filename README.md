@@ -1,6 +1,7 @@
 # INSTAGRAM
 
 BACKEND:
+
 Java:
    - Java is chosen for its platform independence and scalability. The Java programming language, coupled with frameworks like Spring, provides a robust foundation for building scalable and maintainable applications.
    - Spring Boot, a popular Java framework, simplifies the development of web applications by offering features like dependency injection, data access, and security.
